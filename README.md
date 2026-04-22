@@ -1,16 +1,27 @@
-## Hi there 👋
+## Cara O'Shea
 
 <!--
-**cdunnerun/cdunnerun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cdunnerun/cdunnerun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+**College:** 
+Loyola University of Chicago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:**
+Running, Raising College Kids, Traveling, Teaching
+
+**Occupation:**
+Teacher at Chicago High School for Agricultural Sciences
+
+
+![This is the emblem for CHSAS](assets/CHSAS.png)
+)
+
+**Contact:**
+cadunne@cps.edu 
+
+**Biography:**
+This is my 27th year in education. I have taught social studies and computer sciences since 1999. I have tried many different roles at my school but my current role of AP CSP and AP Human Geography teacher is the greatest!
+I have three children and a cutie dog. My husband and I have always lived in Chicago. I meet my husband when I was in 8th grade. 
+
+
+
